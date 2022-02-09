@@ -1,0 +1,9 @@
+proxyApiHost: http://localhost:1112
+
+server:
+  port: 1113
+
+scraper:
+  spysOne: http://spys.one/en/free-proxy-list/
+  fplNet: https://free-proxy-list.net/
+  proxyNova: https://www.proxynova.com/proxy-server-list/,country-us/,country-ar/,country-br/,country-cl/,country-co/,country-fr/,country-de/,country-nl/,country-pl/,country-ru/,country-rs/,country-ua/,country-gb/,country-us/,country-ve/
