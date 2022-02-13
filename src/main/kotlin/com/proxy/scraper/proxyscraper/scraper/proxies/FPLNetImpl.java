@@ -41,6 +41,7 @@ public class FPLNetImpl implements ScraperService {
                 }
             }
         }
+        System.out.println("FPLNetImpl: " +proxies.size());
         return proxies;
     }
 }

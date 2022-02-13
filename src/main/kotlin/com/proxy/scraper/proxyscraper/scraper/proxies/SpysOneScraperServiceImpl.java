@@ -55,6 +55,7 @@ public class SpysOneScraperServiceImpl implements ScraperService {
                 });
             }
         }
+        System.out.println("SpysOneScraperServiceImpl: " +proxies.size());
         return proxies;
     }
 
